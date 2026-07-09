@@ -1,0 +1,15 @@
+*
+**/*
+
+!config/
+!config/physicsmod/
+!mods/
+!shaderpacks/
+
+!config/physicsmod/*
+!mods/*
+!shaderpacks/*
+
+!options.txt
+!README.md
+!.gitignore
